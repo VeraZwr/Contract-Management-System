@@ -1,0 +1,22 @@
+insert into AssociatedWith(ContractID,LOB)
+values('2001','Cloud Service'),
+('2002','Cloud Service'),
+('2003','Cloud Service'),
+('2004','Cloud Service'),
+('2005','Development'),
+('2006','Development'),
+('2007','Development'),
+('2008','Development'),
+('2009','Reaearch'),
+('2010','Reaearch'),
+('2011','Reaearch'),
+('2012','Reaearch'),
+('2013','Maintenance'),
+('2014','Maintenance'),
+('2015','Maintenance'),
+('2016','Maintenance'),
+('2017','Marketing'),
+('2018','Marketing'),
+('2019','Marketing'),
+('2020','Marketing');
+
